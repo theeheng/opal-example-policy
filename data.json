@@ -14,7 +14,8 @@
     },
     "bob": {
       "roles": [
-        "employee"
+        "employee",
+        "billing"
       ],
       "location": {
         "country": "US",
